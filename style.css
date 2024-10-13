@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+    height: 100vh;
+}
+
+#calculator{
+    display: flex;
+    margin: auto;
+    width: 50%;
+}
